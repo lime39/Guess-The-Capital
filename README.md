@@ -93,6 +93,8 @@ ibmcloud ce application create --name guess-capital --image us.icr.io/<your-name
 ```
 After deployment, you can access the application via the URL provided by IBM Cloud.
 
+Example: https://guess-the-capital.1lesj25xh9ao.us-south.codeengine.appdomain.cloud/
+
 ## Project Structure
 ```bash
 ├── Dockerfile          # Dockerfile for building the container
